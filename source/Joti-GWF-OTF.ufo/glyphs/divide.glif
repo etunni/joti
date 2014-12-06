@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="612"/>
+  <unicode hex="00F7"/>
+  <outline>
+	<component base="minus"/>
+	<component base="dotaccent" xOffset="175" yOffset="-90" xScale="0.9" yScale="0.9"/>
+	<component base="dotaccent" xOffset="155" yOffset="-455" xScale="0.9" yScale="0.9"/>
+  </outline>
+</glyph>
